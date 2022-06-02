@@ -1,4 +1,4 @@
-### Raspberry Pi Pico - LED Blink
+# Raspberry Pi Pico - LED Blink
 
 The first program for pi pico that everyone writes.
 
