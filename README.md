@@ -3,11 +3,11 @@
 The first program for pi pico that everyone writes.
 
 ## Links
-[Buy A Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/)
-[Pico Datasheet](https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf)
-[Pico C SDK PDF](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf)
-[Pico SDK Doxygen](https://raspberrypi.github.io/pico-sdk-doxygen/)
-[Pico SDK Github](https://github.com/raspberrypi/pico-sdk)
+- [Buy A Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/)
+- [Pico Datasheet](https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf)
+- [Pico C SDK PDF](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf)
+- [Pico SDK Doxygen](https://raspberrypi.github.io/pico-sdk-doxygen/)
+- [Pico SDK Github](https://github.com/raspberrypi/pico-sdk)
 
 ## Requirements (Mac Os)
 ```bash
